@@ -22,39 +22,24 @@
 
  The dataset used contains information on transit stations and surrounding built environment statistics, with the following major components:
 
-**Column Name	Description:**
-
- station_id:	Unique ID for each transit station
+ **Column Name	Description:**
  
- StationName:	Name of the transit station
- 
- ntd_agency:	Transit agency name
- 
- ntd_mode:	Mode of transportation (e.g., Rail, Metro)
- 
- line_name:	Transit line identifier
- 
- latitude, longitude:	Latitude and longitude coordinates of the station
- 
- Typology:	Categorization of the urban form (e.g., "Category 1 - Underbuilt")
- 
- Inner_TotalBuildings	Number of buildings within 200m buffer
- 
- Inner_AvgHeight	Average building height within 200m
- 
- Inner_TotalFootprint	Total building footprint within 200m (in square meters)
- 
- Middle_TotalBuildings	Number of buildings within 400m buffer
- 
- Middle_AvgHeight	Average building height within 400m
- 
- Middle_TotalFootprint	Total building footprint within 400m (in square meters)
- 
- Outer_TotalBuildings	Number of buildings within 800m buffer
- 
- Outer_AvgHeight	Average building height within 800m
- 
- Outer_TotalFootprint	Total building footprint within 800m (in square meters)
+  - station_id:	Unique ID for each transit station
+  - StationName:	Name of the transit station
+  - ntd_agency:	Transit agency name
+  - ntd_mode:	Mode of transportation (e.g., Rail, Metro)
+  - line_name:	Transit line identifier
+  - latitude, longitude:	Latitude and longitude coordinates of the station
+  - Typology:	Categorization of the urban form (e.g., "Category 1 - Underbuilt")
+  - Inner_TotalBuildings	Number of buildings within 200m buffer
+  - Inner_AvgHeight	Average building height within 200m
+  - Inner_TotalFootprint	Total building footprint within 200m (in square meters)
+  - Middle_TotalBuildings	Number of buildings within 400m buffer
+  - Middle_AvgHeight	Average building height within 400m
+  - Middle_TotalFootprint	Total building footprint within 400m (in square meters)
+  - Outer_TotalBuildings	Number of buildings within 800m buffer
+  - Outer_AvgHeight	Average building height within 800m
+  - Outer_TotalFootprint	Total building footprint within 800m (in square meters)
 
 **🛠️ Technologies Used**
 
