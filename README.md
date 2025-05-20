@@ -1,5 +1,11 @@
 # Transit Oriented Discoveries - Urban Form Dashboard
 
+**Overview**
+
+ The Urban Form Typology Dashboard is a geospatial analytics and visualization tool designed to support Transit-Oriented Development (TOD) strategies by identifying and exploring 
+ built environment typologies surrounding transit stations across the United States. The dashboard helps planners, policymakers, researchers, and transit agencies visualize urban
+ morphology patterns within 200m, 400m, and 800m walking distances from transit stations.
+
 **📌 Project Summary**
 
  This project focuses on the exploratory data analysis and interactive visualization of urban form typologies surrounding public transit stations in the United States. The primary aim  is to provide urban planners, transit agencies, and researchers with intuitive insights into the built environment characteristics near transit stops, supporting more informed
