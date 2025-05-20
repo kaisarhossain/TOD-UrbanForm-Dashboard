@@ -86,7 +86,7 @@
    - Category 4 – Vertical Campuses:    Lower Building Count, Higher Footprint, Higher Height
    - Category 5 – Compact Low-Rise:     Higher Building Count, Lower Footprint, Lower Height
    - Category 6 – Compact Vertical:     Higher Building Count, Lower Footprint, Higher Height
-   - Category 7 – Sprawling Mid-Density Higher Building Count, Higher Footprint, Lower Height
+   - Category 7 – Sprawling Mid-Density:Higher Building Count, Higher Footprint, Lower Height
    - Category 8 – Urban Core:           Higher Building Count, Higher Footprint, Higher Height
   
   **📌 Tab 3: Data Table**
